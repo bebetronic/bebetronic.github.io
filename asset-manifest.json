@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d2b650d.chunk.css",
-    "main.js": "/static/js/main.54b13b01.chunk.js",
-    "main.js.map": "/static/js/main.54b13b01.chunk.js.map",
+    "main.css": "/static/css/main.8f61603a.chunk.css",
+    "main.js": "/static/js/main.7d864018.chunk.js",
+    "main.js.map": "/static/js/main.7d864018.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.af6a1cea.js",
     "runtime-main.js.map": "/static/js/runtime-main.af6a1cea.js.map",
     "static/js/2.26ca2771.chunk.js": "/static/js/2.26ca2771.chunk.js",
@@ -10,26 +10,26 @@
     "static/js/3.c99223f7.chunk.js": "/static/js/3.c99223f7.chunk.js",
     "static/js/3.c99223f7.chunk.js.map": "/static/js/3.c99223f7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7d2b650d.chunk.css.map": "/static/css/main.7d2b650d.chunk.css.map",
+    "static/css/main.8f61603a.chunk.css.map": "/static/css/main.8f61603a.chunk.css.map",
     "static/js/2.26ca2771.chunk.js.LICENSE.txt": "/static/js/2.26ca2771.chunk.js.LICENSE.txt",
-    "static/media/akward_questions.b5c781cb.gif": "/static/media/akward_questions.b5c781cb.gif",
+    "static/media/akward_questions.cebe7624.jpg": "/static/media/akward_questions.cebe7624.jpg",
     "static/media/index.css": "/static/media/ds-digib.81b4bd92.ttf",
     "static/media/back.522d2a4a.svg": "/static/media/back.522d2a4a.svg",
-    "static/media/chupistica_culture.bfe5f279.gif": "/static/media/chupistica_culture.bfe5f279.gif",
+    "static/media/chupistica_culture.8e729140.jpg": "/static/media/chupistica_culture.8e729140.jpg",
     "static/media/cups.feb3ee14.png": "/static/media/cups.feb3ee14.png",
     "static/media/en.c2750ed9.svg": "/static/media/en.c2750ed9.svg",
     "static/media/es.c812b0e0.svg": "/static/media/es.c812b0e0.svg",
     "static/media/games.e4718052.svg": "/static/media/games.e4718052.svg",
     "static/media/logo.336aea31.png": "/static/media/logo.336aea31.png",
     "static/media/main_background.f1c83d60.jpg": "/static/media/main_background.f1c83d60.jpg",
-    "static/media/most_probably.3d6b8f90.gif": "/static/media/most_probably.3d6b8f90.gif",
+    "static/media/most_probably.f35c05d0.jpg": "/static/media/most_probably.f35c05d0.jpg",
     "static/media/never_have_i_ever.b74dcbc0.jpg": "/static/media/never_have_i_ever.b74dcbc0.jpg",
     "static/media/pt.d1e1b468.svg": "/static/media/pt.d1e1b468.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.af6a1cea.js",
     "static/js/2.26ca2771.chunk.js",
-    "static/css/main.7d2b650d.chunk.css",
-    "static/js/main.54b13b01.chunk.js"
+    "static/css/main.8f61603a.chunk.css",
+    "static/js/main.7d864018.chunk.js"
   ]
 }
